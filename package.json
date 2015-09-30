@@ -1,0 +1,28 @@
+{
+  "name": "wsperformance",
+  "version": "0.0.1",
+  "description": "nodejs websocket performance test",
+  "main": "wsserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvanhalen/wsperformance.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "websocket",
+    "performance"
+  ],
+  "author": "Jaakko Vanhala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jvanhalen/wsperformance/issues"
+  },
+  "homepage": "https://github.com/jvanhalen/wsperformance#readme",
+  "dependencies": {
+    "socket.io": "^1.3.7"
+  }
+}
